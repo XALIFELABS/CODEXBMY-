@@ -52,6 +52,10 @@ selagi (x > 0) {
     ubah x = x - 1;
 }
 
+
+
+
+
 🎯 Matlamat Projek
 
 Menjadi bahasa pengaturcaraan pertama berasaskan Bahasa Melayu dengan ekosistem lengkap.
